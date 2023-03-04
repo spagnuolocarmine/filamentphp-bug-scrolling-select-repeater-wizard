@@ -1,3 +1,4 @@
+The issue is reported for Google Chrome on Mac OS X 10.11.5 
 DB name: test-bug
 Reproduce the bug with the following steps:
 1. login test@example.com - password
